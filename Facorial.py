@@ -1,4 +1,4 @@
-#This is a program to find the factorial of a inputed number using a for loop and recursion methods.
+#This is a program to find the factorial of a inputed number uding a for loop and recursion methods.
 
 def factorial_for_loop(n):
     result = 1
